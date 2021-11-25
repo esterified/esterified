@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esterified
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently working as shopify theme developer
 - 💞️ I’m looking to collaborate on ...
 
 <!---
