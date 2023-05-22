@@ -71,6 +71,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: esterified
+          filename: github-metrics-right.svg
           template: classic
           base: ""
           config_timezone: Asia/Dhaka
