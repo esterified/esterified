@@ -37,12 +37,12 @@ class About extends Me {
         "Serverless Architecture",
         "Headless Architecture",
       ],
-      others: ["Shopify", "Wordpress", "Firebase", "open-cv", "tensorflow", "ruby"],
+      misc: ["Shopify", "Wordpress", "Firebase", "open-cv", "tensorflow"],
     };
   }
   getMyInfo() {
     return {
-      mail: "fayed1589@gmail.com",
+      mail: "****@gmail.com",
     };
   }
 }
