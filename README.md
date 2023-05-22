@@ -56,9 +56,9 @@ class About extends Me {
 <!--END_SECTION:waka-->
 
 
-<div>
-  <span style="width:48%"><img src="/github-metrics.svg" alt="Metrics left" width="100%"></span>
-  <span style="width:48%"><img src="/github-metrics-right.svg" alt="Metrics right" width="100%"></span>
+<div style="display:flex">
+  <div style="width:48%"><img src="/github-metrics.svg" alt="Metrics left" width="100%"></span>
+  <div style="width:48%"><img src="/github-metrics-right.svg" alt="Metrics right" width="100%"></span>
 </div>
 
 
