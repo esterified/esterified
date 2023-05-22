@@ -80,7 +80,7 @@ jobs:
           experimental_features: --optimize-svg
           
           plugin_calendar: yes
-          plugin_calendar_limit: 2
+          plugin_calendar_limit: 3
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
