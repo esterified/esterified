@@ -10,16 +10,18 @@ class About extends Me {
     this.code = ["Javascript", "Typescript", "PHP", "Python", "Java"];
     this.preferredStack = "Full Stack";
   }
-
+  
+  getMyInterests() {
+    return ["web dev", "app dev", "tech", "gaming", "music"];
+  }
+  
   getCurrentWorkplace() {
     return {
       company: "BevyCommerce",
       position: "Lead Software Engineer",
     };
   }
-  getMyInterests() {
-    return ["web dev", "app dev", "tech", "gaming", "music"];
-  }
+  
   getMySkills() {
     return {
       frontEnd: ["VanillaJS", "React", "TailwindCss"],
@@ -40,6 +42,7 @@ class About extends Me {
       misc: ["Shopify", "Wordpress", "Firebase", "open-cv", "tensorflow"],
     };
   }
+  
   getMyInfo() {
     return {
       mail: "****@gmail.com",
