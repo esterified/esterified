@@ -55,5 +55,5 @@ class About extends Me {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="/github-metrics.svg" alt="Metrics" width="90%">
+<img src="/github-metrics.svg" alt="Metrics">
 
