@@ -57,8 +57,8 @@ class About extends Me {
 
 
 <div>
-  <img src="/github-metrics.svg" alt="Metrics left" width="48%" style="vertical-align:top;">
-  <span><img src="/github-metrics-right.svg" alt="Metrics right" width="48%" style="vertical-align:top;display:none!important;"></span>
+  <span style="width:48%"><img src="/github-metrics.svg" alt="Metrics left" width="100%"></span>
+  <span style="width:48%"><img src="/github-metrics-right.svg" alt="Metrics right" width="100%"></span>
 </div>
 
 
