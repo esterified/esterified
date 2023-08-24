@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    4.22k added, 248 removed
+                    55.5k added, 917 removed
                   
                 </div>
             
@@ -3942,8 +3942,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#71ba2c9</div>
-                        <div class="message">date fns localization</div>
+                        <div class="sha">#650f30f</div>
+                        <div class="message">display shipping info</div>
                       </div>
                     
                   </div>
@@ -3978,8 +3978,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#503f131</div>
-                        <div class="message">active subscription date change</div>
+                        <div class="sha">#bdb2a2b</div>
+                        <div class="message">add precise types</div>
                       </div>
                     
                   </div>
@@ -4014,8 +4014,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#10c111a</div>
-                        <div class="message">fix ts compile errors for strict rules</div>
+                        <div class="sha">#f03274b</div>
+                        <div class="message">remove unsused var</div>
                       </div>
                     
                   </div>
@@ -4050,8 +4050,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#3af7514</div>
-                        <div class="message">multi select for reactivate componenet added</div>
+                        <div class="sha">#fb6f315</div>
+                        <div class="message">address display and suspense wrapper and data pipe</div>
                       </div>
                     
                   </div>
@@ -4086,8 +4086,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#d152558</div>
-                        <div class="message">remove braces</div>
+                        <div class="sha">#b99935e</div>
+                        <div class="message">fix frontend element</div>
                       </div>
                     
                   </div>
@@ -4179,7 +4179,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 24 Aug 2023, 22:18:30 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 25 Aug 2023, 02:15:04 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
