@@ -1891,14 +1891,14 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">5</span>
-                  <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <span class="value">4</span>
+                  <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   18
                 </div>
               
                 <div class="entry">
-                  <span class="value">9</span>
-                  <div class="bar" style="height: 28.125px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                  <span class="value">11</span>
+                  <div class="bar" style="height: 34.375px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                   19
                 </div>
               
@@ -1909,8 +1909,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">10</span>
-                  <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                  <span class="value">9</span>
+                  <div class="bar" style="height: 28.125px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                   21
                 </div>
               
@@ -2671,7 +2671,7 @@
                     
                       <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                   </g>
                 
