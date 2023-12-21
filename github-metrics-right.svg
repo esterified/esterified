@@ -1759,7 +1759,7 @@
           
           
           
-            <li>Mostly pushes code around 21:00</li>
+            <li>Mostly pushes code around 00:00</li>
           
           
             <li>Mostly active on Thursday</li>
@@ -1783,8 +1783,8 @@
 
               
                 <div class="entry">
-                  <span class="value"></span>
-                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                  <span class="value">1</span>
+                  <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                   00
                 </div>
               
@@ -1921,8 +1921,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   23
                 </div>
               
@@ -1963,14 +1963,14 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">2</span>
+                    <span class="value">1</span>
                     <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Thu
                   </div>
                 
                   <div class="entry">
-                    <span class="value"></span>
-                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                    <span class="value">1</span>
+                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Fri
                   </div>
                 
