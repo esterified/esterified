@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1452" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1884" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -3918,6 +3918,245 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      Pushed 52 commits in <span class="repo">Portless-2024/PortlessApp</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">add/pubsub</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#3c98004</div>
+                        <div class="message">add: Hookdeck auth middleware for webhooks</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5a46eb1</div>
+                        <div class="message">branch updated with staging</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#d263761</div>
+                        <div class="message">working on inventory stock api</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#286da36</div>
+                        <div class="message">clean: delete mabang function</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9130146</div>
+                        <div class="message">Merge pull request #28 from Portless-2024/product-inventory-sync
+
+Product inventory sync</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#ccfb6a0</div>
+                        <div class="message">lint issue fixed</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#ce924a7</div>
+                        <div class="message">branch updated with staging</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#d636e69</div>
+                        <div class="message">session data used</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#fc530e5</div>
+                        <div class="message">update returned responses</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8c8fee0</div>
+                        <div class="message">Merge pull request #26 from Portless-2024/add/pubsub
+
+Add/pubsub</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f30f42c</div>
+                        <div class="message">Merge pull request #27 from Portless-2024/add/order-sync
+
+Add/order sync</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#55a8a69</div>
+                        <div class="message">inventory update in shopify added</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9c045bd</div>
+                        <div class="message">folder structure updated</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#56ea650</div>
+                        <div class="message">inventory data stored in the database</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#233b689</div>
+                        <div class="message">mabang api invenotry fetch function added</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#3385b4f</div>
+                        <div class="message">unused code removed</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#a8ff8c2</div>
+                        <div class="message">basic cron scheduler added</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4f53265</div>
+                        <div class="message">db schema created for ERP Inventory</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9cb6dfb</div>
+                        <div class="message">branch updated with main</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#dc8d7b4</div>
+                        <div class="message">working on db schema creation</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 8 commits in <span class="repo">Portless-2024/PortlessApp</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">staging</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#6165484</div>
+                        <div class="message">Merge pull request #34 from Portless-2024/tracking-sync
+
+Tracking sync</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#01bfa6f</div>
+                        <div class="message">Fix Lint Error</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8b583b7</div>
+                        <div class="message">fix some lint issues</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#85e9cbd</div>
+                        <div class="message">minor tracking issue solved</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8dccad0</div>
+                        <div class="message">branch updated with staging</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0667dcc</div>
+                        <div class="message">tracking basic flow creation done</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#ed7a873</div>
+                        <div class="message">working on tracking logic</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#d4f0c0a</div>
+                        <div class="message">basic cron setup added for tracking and test routing added</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
+                    <div class="content">
+                      Merged <span class="issue">#34 Tracking sync</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    <div>opened by sabiulhajjajbevy in <span class="repo">Portless-2024/PortlessApp</span></div>
+                    <div>6 files changed <span class="code">++310 --9</span></div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       Pushed 1 commit in <span class="repo">Portless-2024/PortlessApp</span>
                     </div>
                   </div>
@@ -3961,114 +4200,6 @@
                 
                 
                 
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Portless-2024/PortlessApp</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">staging</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#824bfc1</div>
-                        <div class="message">update: order sync logic</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Portless-2024/PortlessApp</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">staging</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#a638394</div>
-                        <div class="message">add: additional addreess info</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Portless-2024/PortlessApp</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">staging</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#abd25af</div>
-                        <div class="message">update order id</div>
-                      </div>
-                    
-                  </div>
                 
                 
                 
@@ -4270,7 +4401,7 @@
                   <span class="prefix">Super</span> developer
                   
                     <span class="gh">
-                      ranked 658k out of 135m users
+                      ranked 659k out of 135m users
                     </span>
                   
                   
@@ -4620,7 +4751,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 16 Apr 2024, 18:27:25 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 16 Apr 2024, 22:19:04 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
