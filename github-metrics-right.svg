@@ -1772,10 +1772,10 @@
           
           
           
-            <li>Mostly pushes code around 01:00</li>
+            <li>Mostly pushes code around 13:00</li>
           
           
-            <li>Mostly active on Thursday</li>
+            <li>Mostly active on Tuesday</li>
           
         </ul>
       </div>
@@ -1802,8 +1802,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">3</span>
-                  <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                  <span class="value">2</span>
+                  <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                   01
                 </div>
               
@@ -1922,8 +1922,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <span class="value">2</span>
+                  <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                   21
                 </div>
               
@@ -1953,43 +1953,43 @@
                 
                   <div class="entry">
                     <span class="value">2</span>
-                    <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                    <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                     Sun
                   </div>
                 
                   <div class="entry">
                     <span class="value">4</span>
-                    <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Mon
                   </div>
                 
                   <div class="entry">
-                    <span class="value">5</span>
-                    <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <span class="value">6</span>
+                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Tue
                   </div>
                 
                   <div class="entry">
                     <span class="value">2</span>
-                    <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                    <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                     Wed
                   </div>
                 
                   <div class="entry">
-                    <span class="value">7</span>
+                    <span class="value">6</span>
                     <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Thu
                   </div>
                 
                   <div class="entry">
                     <span class="value">4</span>
-                    <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Fri
                   </div>
                 
                   <div class="entry">
                     <span class="value">3</span>
-                    <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                    <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                     Sat
                   </div>
                 
@@ -2204,7 +2204,7 @@
                     
                       <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
@@ -2256,7 +2256,7 @@
                     
                       <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
@@ -2272,13 +2272,13 @@
                     
                       <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
@@ -2294,13 +2294,13 @@
                     
                       <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
                   </g>
                 
@@ -2312,7 +2312,7 @@
                     
                       <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
@@ -2328,13 +2328,13 @@
                     
                       <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
@@ -2354,7 +2354,7 @@
                     
                       <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="94" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                   </g>
                 
@@ -2362,15 +2362,15 @@
                     
                       <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
@@ -2384,9 +2384,9 @@
                     
                       <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
@@ -2400,15 +2400,15 @@
                     
                       <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="79" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
                   </g>
                 
@@ -2416,7 +2416,7 @@
                     
                       <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                     
@@ -2434,7 +2434,7 @@
                     
                       <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
@@ -2452,15 +2452,15 @@
                     
                       <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="79" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
@@ -2478,7 +2478,7 @@
                     
                       <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                     
-                      <rect class="day" x="0" y="79" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                      <rect class="day" x="0" y="79" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                     
                       <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
