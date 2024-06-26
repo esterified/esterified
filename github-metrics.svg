@@ -1737,7 +1737,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/></svg>
-            Contributed to 25 repositories
+            Contributed to 24 repositories
           </div>
         </section>
       </div>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.52k added, 44 removed
+                    0 added, 0 removed
                   
                 </div>
             
@@ -1899,21 +1899,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="215.15146458782095" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="215.14312107034277" height="8" fill="#563d7c"/>
             
-              <rect mask="url(#languages-bar)" x="215.15146458782095" y="0" width="68.42149617665544" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="215.14312107034277" y="0" width="68.41884280894386" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="283.57296076447636" y="0" width="52.05473747711975" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="283.5619638792867" y="0" width="52.052718808026356" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="335.62769824159614" y="0" width="43.95165638535902" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="335.61468268731306" y="0" width="43.94986760799057" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="379.57935462695514" y="0" width="34.13030222322868" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="379.5645502953036" y="0" width="34.146901682270546" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="413.7096568501838" y="0" width="17.860964204363395" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="413.71145197757414" y="0" width="17.860271560846876" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="431.5706210545472" y="0" width="15.903019390162674" height="8" fill="#c6538c"/>
+              <rect mask="url(#languages-bar)" x="431.57172353842105" y="0" width="15.902402675233535" height="8" fill="#c6538c"/>
             
-              <rect mask="url(#languages-bar)" x="447.4736404447099" y="0" width="12.526359555290087" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="447.4741262136546" y="0" width="12.525873786345462" height="8" fill="#4F5D95"/>
             
           </svg>
         
@@ -5037,7 +5037,7 @@ Co-authored-by: Bhaskar Murthy &lt;bhaskar@portless.com&gt;</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 26 Jun 2024, 22:20:32 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 27 Jun 2024, 02:19:40 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
