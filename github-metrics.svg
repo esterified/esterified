@@ -3892,6 +3892,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-8.5, 11)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -4084,7 +4089,7 @@
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 1.27m out of 140m users
+                      ranked 1.27m out of 149m users
                     </span>
                   
                   
@@ -4385,7 +4390,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.45m out of 224m repositories
+                      ranked 5.45m out of 218m repositories
                     </span>
                   
                   
@@ -4537,7 +4542,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 16 Nov 2024, 02:20:23 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 16 Nov 2024, 07:24:28 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
