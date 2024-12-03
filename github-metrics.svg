@@ -1913,7 +1913,7 @@
             
               <rect mask="url(#languages-bar)" x="426.6159771320984" y="0" width="17.127775544158652" height="8" fill="#f7523f"/>
             
-              <rect mask="url(#languages-bar)" x="443.74375267625703" y="0" width="16.256247323742937" height="8" fill="#563d7c"/>
+              <rect mask="url(#languages-bar)" x="443.74375267625703" y="0" width="16.256247323742937" height="8" fill="#663399"/>
             
           </svg>
         
@@ -1956,7 +1956,7 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 CSS
               </div>
             
@@ -4390,7 +4390,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.47m out of 215m repositories
+                      ranked 5.47m out of 219m repositories
                     </span>
                   
                   
@@ -4542,7 +4542,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 3 Dec 2024, 18:38:32 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 3 Dec 2024, 22:24:53 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
